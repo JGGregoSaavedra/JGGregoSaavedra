@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **Html, Css, JavaScript, React.js**
 
-- 📫 How to reach me **juangrego090@gmail.com**
+- 📫 How to reach me **/**
 
 - 🌱 I am currently learning new technologies to be a complete front-end developer
 
-- 🌐 Website ([mitucuman.com.ar](https://mitucuman.com.ar/))
+- 🌐 Website [mitucuman.com.ar](https://mitucuman.com.ar/)
 
 
 <div align="left">
