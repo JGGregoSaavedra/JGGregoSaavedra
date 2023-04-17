@@ -1,7 +1,7 @@
 <div id="header" align="center">
-<!--     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" /> -->
     <h1 align="center">Hi 👋, I'm Juan</h1>
     <h3 align="center">A passionate Web Front-End developer from Argentina. I like teaching what I learn</h3>
+    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="200" />
 </div>
 
 ### 👨‍💻 About Me :
