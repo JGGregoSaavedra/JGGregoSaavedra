@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Juan</h1>
     <h3 align="center">A passionate Web Front-End developer from Argentina. I like teaching what I learn</h3>
-    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="500" height="300" />
+    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="200" />
 </div>
 
 ### 👨‍💻 About Me :
